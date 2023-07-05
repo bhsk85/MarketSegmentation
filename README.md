@@ -9,7 +9,7 @@ This case requires developing a customer segmentation to give recommendations li
 The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
 ## Data:
-You can download the dataset using the following link: [Clustered_Customer_Data.csv](https://github.com/pik1989/MarketSegmentation/blob/main/Clustered_Customer_Data.csv)
+You can download the dataset using the following link: [Clustered_Customer_Data.csv]([https://github.com/pik1989/MarketSegmentation/blob/main/Clustered_Customer_Data.csv](https://github.com/bhsk85/MarketSegmentation/blob/main/Clustered_Customer_Data.csv))
 
 ## Algorithms Used:
 In this dataset, we have used five clustering algorithms to perform segmentation. These algorithms are as follows:
